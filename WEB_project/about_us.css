@@ -1,0 +1,45 @@
+body{
+
+	background-image:url("note.jpg");
+	margin:0px;
+	height: 950px;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position:relative;
+}
+
+
+#id_option{
+	margin:100px;
+	text-decoration:none;
+	background-color:black;
+	color:green
+}
+#photo_of_magazine{
+	margin: 100px 200px 35px 54px;
+}
+#text{
+	color:blue;
+	width:350px;
+}
+#colore_text{
+	color:red;
+}
+#adress{
+	text-align:center;
+	border:10px solid orange;
+	margin: 100px 450px 300px 350px;
+}
+h1{
+	text-align: center;
+}
+#shop_img{
+	width:500px;
+	height:300px;
+}
+#main_table{
+	height:75px;
+	background-color:black;
+}
+
