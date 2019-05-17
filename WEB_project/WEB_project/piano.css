@@ -1,0 +1,59 @@
+
+
+#main_table{
+	border: 1px solid black;
+	background-color:black;
+}
+a{
+	text-decoration:none;
+	color:green;
+}
+.id_option{
+	font-family:URW Chancery L, cursive;
+	border: none;
+	background-color: inherit;
+	padding: 21px 119.7px;
+	font-size: 20px;
+	cursor: pointer;
+	display: inline-block;
+	color:white;
+}
+.id_option:hover{
+	color:black;
+	background-color: white;
+}
+html{
+    overflow-y: hidden;
+}
+h1{
+	text-align: center;
+	font-family:Didot, serif;
+}
+h3{
+	font-family:Courier, monospace;
+}
+body{
+
+	margin:0px;
+	height: 950px;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position:relative;
+}
+td{
+    margin:10px;
+}
+h3{
+	font-size:30px;
+	margin-left:20px;
+}
+ p{
+	margin-left: 20px;
+}
+.small{
+	font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+#pas{
+	cursor: not-allowed;
+}

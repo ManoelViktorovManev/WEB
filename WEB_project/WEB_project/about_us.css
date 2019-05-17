@@ -1,0 +1,69 @@
+body{
+	width: 100%;
+	overflow-x: hidden;
+	margin:0px;
+	background-image:url("background_maybe.jpg");
+
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+h4{
+	color:white;
+}
+
+.id_option{
+	font-family:URW Chancery L, cursive;
+	border: none;
+	background-color: inherit;
+	padding: 21px 118.5px;
+	font-size: 20px;
+	cursor: pointer;
+	display: inline-block;
+	color:white;
+}
+
+#photo_of_magazine{
+	margin: 100px 200px 35px 54px;
+}
+#text{
+	color:blue;
+	width:350px;
+}
+.colore_text{
+	color:rgb(255, 2, 2);
+}
+#adress{
+	text-align:center;
+	border:10px solid orange;
+	margin: 100px 450px 300px 350px;
+}
+h1{
+	color:white;
+	text-align: center;
+}
+#shop_img{
+	width:500px;
+	height:300px;
+}
+#main_table{
+	height:75px;
+	background-color:black;
+}
+p{
+	color:white;
+	font-family:Comic Sans MS, Comic Sans, cursive;
+}
+
+
+.id_option:hover{
+	color:black;
+	background-color: white;
+}
+
+a{
+	text-decoration:none;
+	color:green;
+}

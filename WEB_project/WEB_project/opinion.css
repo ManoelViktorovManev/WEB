@@ -1,0 +1,100 @@
+body{
+	width: 100%;
+	overflow-x: hidden;
+	margin:0px;
+	background-image:url("gray.jpg");
+	max-width: 100%;
+
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+tr{
+	
+	margin: 30px;
+}
+p{
+	font-family:DejaVu Sans Mono, monospace;
+}
+
+.id_option{
+	font-family:URW Chancery L, cursive;
+	border: none;
+	background-color: inherit;
+	padding: 21px 118.5px;
+	font-size: 20px;
+	cursor: pointer;
+	display: inline-block;
+	color:white;
+}
+#main_table{
+	border: 1px solid black;
+	background-color:black;
+}
+h1{
+	text-align:center;
+}
+.ob6o{
+	position:relative;
+}
+.photo1{
+	top:80px;
+	right:80px;
+	height:100px;
+	width:100px;
+}
+.photo2{
+	float:left;
+	position:absolute;
+	width:100px;
+	left:100px;
+	top:100px;
+	height:100px;
+}
+img{
+	border: 3px solid black;
+	border-radius: 3%;
+}
+.header_h{
+	position: relative;
+	top:-110px;
+	left:30px;
+	width:200px;
+	color:black;
+}
+.header_p{
+	font-family:Blippo, fantasy;
+	position: relative;
+	top:-60px;
+	left:-170px;
+	width:300px;
+	color:black;	
+}
+.text{
+	position: relative;
+	width:600px;
+	top:30px;
+	left:-470px;
+}
+.checked {
+	color: orange;
+  }
+.raiting{
+  position: relative;;
+  top:100px;
+  left:-1075px;
+  }
+span{
+	  position: relative;
+	top:100px;
+	left:-1060px;  
+}
+a{		text-decoration:none;
+}
+
+.id_option:hover{
+	color:black;
+	background-color: white;
+}
